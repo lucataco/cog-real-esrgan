@@ -1,6 +1,6 @@
 # Nightmareai/real-esrgan Cog model
 
-This is an implementation of RiversHaveWings [StableDiffusionUpscaler](https://colab.research.google.com/drive/1o1qYJcFeywzCIdkfKJy7cTpgZTCM2EI4) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of the model: [nightmareai/real-esrgan](https://replicate.com/nightmareai/real-esrgan) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights:
 
