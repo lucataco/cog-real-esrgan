@@ -15,5 +15,5 @@ Then, you can run predictions:
 Demo image before upscaling:
 ![alt text](cat.jpg)
 
-Demo Stable Diffusion image after upscaling:
+Demo image after upscaling:
 ![alt text](output.png)
