@@ -1,0 +1,11 @@
+__pycache__
+.cog
+.eggs
+gfpgan/
+
+realesrgan/__pycache__
+realesrgan/archs/__pycache__
+realesrgan/data/__pycache__
+realesrgan/models/__pycache__
+
+realesrgan.egg-info/
